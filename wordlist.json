@@ -580,7 +580,7 @@
         "thermoanaerobacterthermohydrosulfuricus": {"part_of_speech": "noun", "definition": "a bacterium which can thrive in high-temperature environments", "homophones": ["thermoanaerobacter thermohydrosulfuricus"]},
         "thermoelectromagnetoelastic": {"part_of_speech": "adjective", "definition": "involving coupled thermal, field-driven, and mechanical deformation effects", "homophones": []},
         "thyroparathyroidectomized": {"part_of_speech": "adjective", "definition": "having undergone surgical removal of certain neck glands involved in hormone regulation", "homophones": ["thyroparathyroidectomised"]},
-        "uridinediphosphateglucosepyrophosphorylase": {"part_of_speech": "noun", "definition": "an intracellular enzyme involved in the regulation of carbon partitioning into cellulose and starch", "homophones": []}
+        "uridinediphosphateglucosepyrophosphorylase": {"part_of_speech": "noun", "definition": "an intracellular enzyme involved in the regulation of carbon partitioning into cellulose and starch", "homophones": ["uridine diphosphate glucose pyrophosphorylase"]}
     },
     "info": {
         "color": {"starter": "#00ff00", "easy": "#00ffff", "tricky": "#ffff00", "advanced": "#ff0000", "insane": "#ff00ff", "expert": "#ff8f00", "master": "#333333", "sesquipedalian": "#ffffff"}
